@@ -33,6 +33,4 @@
 *.su
 workspace/.metadata/
 workspace/RemoteSystemsTempFiles/.project
-downloads/code/.cdtproject
-downloads/code/.cproject
 downloads/
