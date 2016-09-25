@@ -2,7 +2,7 @@
 Projects will be run on a Windows machine. MinGW-W64 was chosen to be able to run the GCC compiler on Windows. A windows installer was downloaded from [sourceforge](https://sourceforge.net/projects/mingw-w64/ "Sourceforge").  
 
 The following settings was chosen in the installer  
-- Version: 6.1.0  
+- Version: 6.2.0  
 - Architecture: x86_64  
 - Threads: posix  
 - Exception: seh  
