@@ -8,7 +8,7 @@ The following settings was chosen in the installer
 - Exception: seh  
 - Build revision: 0  
 
-The default installation folder was accepted - C:\Program Files\mingw-w64\x86_64-6.1.0-posix-seh-rt_v5-rev0
+It is likely best to have a an installation folder without spaces in the path so it was chosen to be - C:\mingw-w64\x86_64-6.2.0-posix-seh-rt_v5-rev0 
 
 
 
